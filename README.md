@@ -1,16 +1,10 @@
-# flutter_application_1
+Note: 
+Assalamualaikum wr.wb
 
-A new Flutter project.
+Bapak penguji yang terhormat,
 
-## Getting Started
+Ujian praktik ini bukan seperti keinginan saya. Sebenarnya saya mengalami kendala jaringan saat ujian tadi. Awalnya saya ingin mengerjakan dengan kotlin karena saya rasa akan cepat selesai dengan menggunakan Kotlin. Saat membuat project baru, masalah internet terjadi, wifi dan hotspot seluler saya tidak cukup, saya menghabiskan kurang lebih 1 jam 30 menit untuk menunggu gradle di download. Dan akhir nya saya memustuskan untuk memakai flutter, hanya sebentar untuk melakukan coding.
 
-This project is a starting point for a Flutter application.
+Namun, hasil tetaplah hasil. Saya hanya mengungkapkan saja kenapa aplikasi yang telah saya buat ini sangat tidak memenuhi syarat ujian.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Terima kasih atas perhatiannya. Wassalamualaikum wr.wb
